@@ -1,5 +1,9 @@
 # Hi there 👋, I'm a Full-Stack Developer
+<!-- Style 1: Simple -->
+![Visitor Count](https://profile-counter.glitch.me/Echchetoui29/count.svg)
 
+<!-- Style 2: More detailed -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Echchetoui29&color=blue&style=flat-square)
 ## 🚀 Professional Objective
 
 I am a Master's student in Information Systems Engineering at FSSM Marrakech, eager to join PULSE.digital as a Full-Stack PHP/React Developer. I aim to contribute to ambitious projects within an innovative team. I have dual expertise in Full-Stack development (PHP, Laravel, React/Vue.js) and DevOps practices with Docker. I am passionate about actively participating in the creation of high-performance and high-impact digital solutions.
